@@ -1,7 +1,7 @@
 # base64_qrcode
 TP5生成base64二维码
 
-```
+```php
 //二维码
 public function base_qrcode($order_id,$ordertype)
 {	
